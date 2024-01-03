@@ -1,2 +1,1 @@
-# case-studies
-Customer centric case studies 📖
+# Case Studies
